@@ -17,7 +17,7 @@
 
 	<!-- Project Info -->
 	<groupId>com.aqi</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>AQWORLD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>indiAQI</name>
 	<description>Air Quality Index backend using AQICN API</description>
